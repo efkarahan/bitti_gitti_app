@@ -18,6 +18,7 @@
 * rive
 * http
 * font_awesome_flutter
+* Motivasyon sözleri Kullanılan API =  " https://api.forismatic.com/api/1.0/?method=getQuote&format=json&lang=en " 
 
 
 <p align="center">
